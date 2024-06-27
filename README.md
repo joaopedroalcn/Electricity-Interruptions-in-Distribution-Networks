@@ -6,7 +6,7 @@
 
 @versão: 1.0
 
-dataset: https://dadosabertos.aneel.gov.br/dataset/interrupcoes-de-energia-eletrica-nas-redes-de-distribuicaos
+dataset: https://dadosabertos.aneel.gov.br/dataset/interrupcoes-de-energia-eletrica-nas-redes-de-distribuicao/resource/cc091bb8-b308-46b2-98ec-c2fd58e7194b
 
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor Thales Levi Azevedo Valente, e colegas de curso.
 
